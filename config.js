@@ -1,4 +1,4 @@
-// console.log("config.js");
-// console.log("ver1");
+console.log("config.js");
+console.log("ver2");
 
-console.log("change again");
+// console.log("change again");
